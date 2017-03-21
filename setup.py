@@ -8,6 +8,7 @@ requirements = [
     'custodia >= 0.2',
     'ipalib',
     'ipaclient',
+    'six',
 ]
 # test requirements
 test_requires = ['coverage', 'pytest']
